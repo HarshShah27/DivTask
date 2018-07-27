@@ -1,0 +1,22 @@
+
+body,html {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+
+}
+
+.zero {
+    height:33.3% ;
+    width:33.3% ;
+    float: left;
+    display: inline-block;
+/*    background: white;*/
+}
+
+.x {
+    height:33.3% ;
+    width:33.3% ;
+    float: left;
+    display: inline-block;
+}

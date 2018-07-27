@@ -1,0 +1,55 @@
+html,body{
+    height: 100%;
+    margin: 0px;
+}
+.topLeft {
+    height: 200px;
+    width:200px;
+    position: absolute;
+    margin: 0;
+    display: inline-block;
+    background: red;
+}
+
+.bottomRight {
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    position: absolute;
+    display: inline-block;
+    margin: 0px;
+    bottom: 0;
+    right: 0;
+}
+
+.topRight {
+    height: 200px;
+    width: 200px;
+    background-color: chocolate;
+    position: absolute;
+    display: inline-block;
+    margin: 0px;
+    right: 0px;
+}
+
+.center {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: blue;
+    margin: auto;
+    position: absolute;
+}
+
+.bottomLeft {
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    position: absolute;
+    margin: 0px;
+    bottom: 0;
+    display: inline-block;
+    left: 0;
+        
+}

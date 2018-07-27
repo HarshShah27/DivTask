@@ -1,0 +1,175 @@
+html,body{
+    height:100%;
+    width:100%;
+    margin:0px;
+        background-image: url(../images/table.jpg);
+
+}
+.black {
+    height: 12.5%;
+    width: 12.5%;
+    left: 0px;
+    background: black;
+    display: inline-block;
+    float: left;
+}
+
+.black1 {
+     height: 12.5%;
+    width: 12.5%;
+    left: 0px;
+    display: inline-block;
+    background: black;
+    float: left;
+}
+
+.black2 {
+     height: 12.5%;
+    width:12.5%;
+    left:0px;
+    display: inline-block;
+    background: black;
+    float: left;
+}
+
+.black3 {
+    height: 12.5%;
+    width:12.5%;
+    left:0px;
+    display: inline-block;
+    background: black;
+    float: left;
+}
+
+
+
+.center {
+         top: 0;
+    height: 635px;
+    background: blue;
+    width: 640px;
+    display: inline-block;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    position: absolute;
+}
+
+.white {
+    height:12.5%;
+    width:12.5%;
+    left:0px;
+    background: white;
+    display: inline-block;
+    float: left;
+}
+
+.white1 {
+    height: 12.5%;
+    width:12.5%;
+    left:0px;
+    display: inline-block;
+    float: left;
+    background: white;
+}
+
+.white2 {
+     height: 12.5%;
+    width:12.5%;
+    left:0px;
+    display: inline-block;
+    background: white;
+    float: left;
+}
+
+.white3 {
+     height: 12.5%;
+    width:12.5%;
+    left:0px;
+    display: inline-block;
+    background: white;
+    float: left;
+}
+
+.black2-1 {
+     height: 12.5%;
+    width:12.5%;
+    left:0px;
+    display: inline-block;
+    background: black;
+    float: left;
+}
+
+.white4 {
+    
+}
+
+.white2-1 {
+     height: 12.5%;
+    width:12.5%;
+    left:0px;
+    display: inline-block;
+    background: white;
+    float: left;
+}
+
+.white2-2 {
+    height: 12.5%;
+    width:12.5%;
+    left:0px;
+    display: inline-block;
+    float: left;
+    background: white;
+}
+
+.black2-2 {
+    height: 12.5%;
+    width:12.5%;
+    left:0px;
+    display: inline-block;
+    float: left;
+    background: black;
+}
+
+.white2-3 {
+    height: 12.5%;
+    width:12.5%;
+    left:0px;
+    display: inline-block;
+    float: left;
+    background: white;
+}
+
+.black2-3 {
+    height: 12.5%;
+    width:12.5%;
+    left:0px;
+    display: inline-block;
+    float: left;
+    background: black;
+}
+
+.white2-4 {
+    height: 12.5%;
+    width:12.5%;
+    left:0px;
+    display: inline-block;
+    float: left;
+    background: white;
+}
+
+.black2-4 {
+    height: 12.5%;
+    width:12.5%;
+    left:0px;
+    display: inline-block;
+    float: left;
+    background: black;
+}
+
+/*
+.image {
+    background-image: url(../images/table.jpg);
+}
+*/
